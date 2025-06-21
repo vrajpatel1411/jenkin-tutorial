@@ -1,4 +1,4 @@
 # jenkin-tutorial
 
 
-[![Build Status](http://34.130.117.23:8080/buildStatus/icon?job=Run_Project_Github)](http://34.130.117.23:8080/job/Run_Project_Github/)
+[![Build Status](https://jenkins.example.com/buildStatus/icon?job=Run_Project_Github)](https://jenkins.example.com/job/Run_Project_Github/)
