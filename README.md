@@ -1,4 +1,4 @@
 # jenkin-tutorial
 
 
-[![Build Status](https://jenkins.example.com/buildStatus/icon?job=Run_Project_Github)](https://jenkins.example.com/job/Run_Project_Github/)
+[![Build Status](https://jenkins.vrajpatel.dev/job/Run_Project_Github/badge/icon)](https://jenkins.vrajpatel.dev/job/Run_Project_Github/)
